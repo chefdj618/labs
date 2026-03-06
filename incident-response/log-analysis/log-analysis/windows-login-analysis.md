@@ -1,13 +1,12 @@
-# Big title labs
+# labs
 │
-├──## Smaller title incident-response
+## ├──  incident-response
 │     └── phishing-investigation.md
 │
-├──## Smaller title log-analysis
+## ├──  log-analysis
 │     └── windows-login-analysis.md
 │
-LICENSE
-README.md
+- LICENSE
+- README.md
 
 
-- bullet point
